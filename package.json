@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "dependencies": {
     "dotenv": "^8.2.0",
     "mail-listener5": "^2.0.2"
